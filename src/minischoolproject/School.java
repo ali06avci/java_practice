@@ -1,4 +1,4 @@
-package simpleschoolproject;
+package minischoolproject;
 public interface School {
     public static final String SCHOOL_NAME ="Yildiz Technical University";
     public abstract String departmentName();//will return related department

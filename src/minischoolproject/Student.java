@@ -1,4 +1,4 @@
-package simpleschoolproject;
+package minischoolproject;
 public class Student implements ITDepartment, LanguageDepartment{
     private String name;
     private String lastname;

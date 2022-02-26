@@ -1,6 +1,6 @@
-package simpleschoolproject;
-public interface ITDepartment extends School {
-    public static final String NAME = "IT Department";
+package minischoolproject;
+public interface LanguageDepartment extends School{
+    public static final String NAME ="Language Department";
     public abstract Instructor instructor();
     public abstract Student student();
 
