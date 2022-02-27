@@ -1,4 +1,4 @@
-package practice;
+package loops;
 import java.util.Scanner;
 
 public class For_While_1 {

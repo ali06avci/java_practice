@@ -1,4 +1,4 @@
-package practice;
+package loops;
 public class For_While_3_2 {
     public static void main(String[] args) {
 		int count=0;
