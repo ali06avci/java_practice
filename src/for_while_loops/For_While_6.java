@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 //Print Alphabet on the console.
 //OUTPUT : a b c .. .. .. .. y z
 public class For_While_6 {

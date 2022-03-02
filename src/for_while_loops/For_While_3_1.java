@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 import java.util.Arrays;
 public class For_While_3_1 {
     public static void main(String[] args) {

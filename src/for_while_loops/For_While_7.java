@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 import java.util.Scanner;
 /*
 	 Write java code for checking the number is Perfect number or not.

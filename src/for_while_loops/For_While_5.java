@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 /*
 	 Print even numbers from 20 to 0 but do not use decrement (i--).
 

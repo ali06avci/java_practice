@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 import java.util.Scanner;
 
 public class For_While_1 {

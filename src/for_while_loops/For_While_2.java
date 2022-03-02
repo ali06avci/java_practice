@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 import java.util.Scanner;
 /*
 		Ask user to enter 2 integer then find GCD (Greatest Common Divisor) and LCM (Least Common Multiple)

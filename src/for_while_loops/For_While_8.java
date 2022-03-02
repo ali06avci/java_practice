@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 /*
      Write a Java program that prints ascii values of characters from ‘a’ to ‘z’
 Expected Output:

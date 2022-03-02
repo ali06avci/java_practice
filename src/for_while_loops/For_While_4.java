@@ -1,4 +1,4 @@
-package loops;
+package for_while_loops;
 import java.util.Scanner;
 /*
  Write a return method that accepts an integer as input and calculates factorial and prints like output.
