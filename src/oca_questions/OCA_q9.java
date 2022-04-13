@@ -13,7 +13,7 @@ public class OCA_q9 {
         int x=0;
         String s=null;
 
-        if (x == null) System.out.println("Success");
-        else System.out.println("Failure");
+//        if (x == null) System.out.println("Success");
+//        else System.out.println("Failure");
     }
 }
