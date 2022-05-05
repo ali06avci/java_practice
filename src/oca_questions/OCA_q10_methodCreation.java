@@ -1,6 +1,6 @@
 package oca_questions;
 
-public class methodCreationQ10 {
+public class OCA_q10_methodCreation {
     public static void main(String[] args) {
 
     }
